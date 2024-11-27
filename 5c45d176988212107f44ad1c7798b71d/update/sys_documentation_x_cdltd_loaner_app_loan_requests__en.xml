@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Loan Requests" language="en" table="x_cdltd_loaner_app_loan_requests">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Loan Requests</label>
+            <language>en</language>
+            <name>x_cdltd_loaner_app_loan_requests</name>
+            <plural>Loan Requests</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-27 06:09:26</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Loan Requests</sys_name>
+            <sys_package display_value="Loaner Application" source="x_cdltd_loaner_app">5c45d176988212107f44ad1c7798b71d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Application">5c45d176988212107f44ad1c7798b71d</sys_scope>
+            <sys_update_name>sys_documentation_x_cdltd_loaner_app_loan_requests__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-27 06:09:26</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
