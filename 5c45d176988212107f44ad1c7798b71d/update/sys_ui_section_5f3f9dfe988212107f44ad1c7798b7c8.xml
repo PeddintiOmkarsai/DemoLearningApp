@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Loan Details" section_id="5f3f9dfe988212107f44ad1c7798b7c8" sys_domain="global" table="x_cdltd_loaner_app_loan_requests" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>username</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-27 06:44:19</sys_created_on>
+            <sys_id>f65f117298c212107f44ad1c7798b77b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Loan Details" display_value="Loan Details" name="x_cdltd_loaner_app_loan_requests" sys_domain="global" view="Default view">5f3f9dfe988212107f44ad1c7798b7c8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-27 06:44:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>phone_number</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-27 06:44:19</sys_created_on>
+            <sys_id>7a5f117298c212107f44ad1c7798b77b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Loan Details" display_value="Loan Details" name="x_cdltd_loaner_app_loan_requests" sys_domain="global" view="Default view">5f3f9dfe988212107f44ad1c7798b7c8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-27 06:44:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Loan Details</caption>
+            <header>false</header>
+            <name>x_cdltd_loaner_app_loan_requests</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-27 06:43:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5f3f9dfe988212107f44ad1c7798b7c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_cdltd_loaner_app_loan_requests</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Loaner Application" source="x_cdltd_loaner_app">5c45d176988212107f44ad1c7798b71d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Application">5c45d176988212107f44ad1c7798b71d</sys_scope>
+            <sys_update_name>sys_ui_section_5f3f9dfe988212107f44ad1c7798b7c8</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-27 06:43:49</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,3 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="262799f6988212107f44ad1c7798b79a" extends="task" label="Loan Requests" max_length="40" name="x_cdltd_loaner_app_loan_requests" type="collection"/>
+    <element db_object_id="262799f6988212107f44ad1c7798b79a" extends="task" label="Loan Requests" max_length="40" name="x_cdltd_loaner_app_loan_requests" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Phone number" max_length="40" name="phone_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="UserName" max_length="40" name="username" type="string"/>
+    </element>
 </database>
